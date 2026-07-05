@@ -32,7 +32,10 @@ The dataset is hierarchical (**District → Block → School → Student**) and 
 ### 1️⃣ Education Management Analytics Dashboard
 *Infrastructure, HR and district-level school distribution overview*
 
-![Education Management Analytics Dashboard](assets/dashboard-analytics-overview.png)
+<img width="881" height="498" alt="image" src="https://github.com/user-attachments/assets/5e5dde72-86c5-408a-acaf-97c4ec0ee780" />
+<img width="885" height="491" alt="image" src="https://github.com/user-attachments/assets/95233f09-0c95-4b12-842a-0f81c51c94b0" />
+<img width="861" height="482" alt="image" src="https://github.com/user-attachments/assets/ece7e623-9070-4a98-8c77-3fe7a967d602" />
+
 
 **Filters:** District, Block, School, School Management, School Category, Session Type
 
